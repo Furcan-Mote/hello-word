@@ -1,0 +1,7 @@
+{
+  "ZipCode": {
+    "city": { "string": {} },
+    "state": { "string": {} },
+    "address": { "string": {} }
+  }
+}
